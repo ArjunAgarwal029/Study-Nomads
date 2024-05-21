@@ -1,5 +1,5 @@
 ![Screenshot (4322)](https://github.com/ArjunAgarwal029/Study-Nomads/assets/104565898/459438ac-1c28-465e-aeed-98b21b47729d)
-![getstarted](https://user-images.githubusercontent.com/60288671/141075978-6ed9e99f-813e-4206-ad14-ead12d20c99e.png)
+![Screenshot (4324)](https://github.com/ArjunAgarwal029/Study-Nomads/assets/104565898/dea9af1e-6283-48e0-a201-cf12954da153)
 ## StudyNomads (E-learning Website)
 An educational website for students and programmers 😊😊😊  
 
