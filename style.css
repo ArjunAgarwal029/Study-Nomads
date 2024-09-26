@@ -472,19 +472,11 @@ a, button {
 	margin-left: 90px;
 	align-self: center;
 }
-.btn-pranchi:hover {
+.btn-arjun:hover {
 	background: rgba(133, 12, 231, 0.979);
 	color: #fff;
 }
-.btn-riya:hover {
-	background: rgba(133, 12, 231, 0.979);
-	color: #fff;
-}
-.btn-saumya:hover {
-	background: rgba(133, 12, 231, 0.979);
-	color: #fff;
-}
-.btn-ujjwal:hover {
+.btn-shubham:hover {
 	background: rgba(133, 12, 231, 0.979);
 	color: #fff;
 }
